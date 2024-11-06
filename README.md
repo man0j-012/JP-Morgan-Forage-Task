@@ -35,4 +35,5 @@ Perspective: Open-source data visualization tool by JPMorgan Chase.
 Python: Used for the data feed server.
 
 Acknowledgments
+
 This project is part of the JPMorgan Chase Software Engineering Virtual Experience Program provided by Forage.
