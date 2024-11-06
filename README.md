@@ -25,9 +25,14 @@ In this task, we integrate JPMorgan Chase's open-source data visualization tool,
    git clone https://github.com/yourusername/forage-jpmc-swe-task-2.git
    
 Technologies Used
+
 React: JavaScript library for building user interfaces.
+
 TypeScript: Superset of JavaScript that adds static typing.
+
 Perspective: Open-source data visualization tool by JPMorgan Chase.
+
 Python: Used for the data feed server.
+
 Acknowledgments
 This project is part of the JPMorgan Chase Software Engineering Virtual Experience Program provided by Forage.
